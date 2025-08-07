@@ -390,6 +390,6 @@ const lv_img_dsc_t face1 = {
     .header.reserved = 0,
     .header.w = 140,
     .header.h = 68,
-    .data_size = 1224,
+    .data_size = 1232,
     .data = face1_map,
 };
